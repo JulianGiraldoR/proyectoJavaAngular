@@ -1,0 +1,29 @@
+main{
+    display: flex;
+    flex-direction: column;
+    max-height: max-content;
+    width: 100%;
+    height: 620rem;
+
+
+    
+  }
+  
+  .productCardContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: auto;
+    min-width: auto;
+  }
+
+  .title{
+    text-align: center;
+    font-size: 40px;
+    color: #6a6a6a;
+    margin-top: 100px;
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+}
